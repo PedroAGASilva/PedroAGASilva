@@ -30,6 +30,6 @@ Feel free to explore my repositories to see more of my work!
 If you'd like to get in touch with me or discuss potential collaboration opportunities, feel free to reach out:
 
 - 📧 Email: pedroagasilva@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/augustogomessilva/)
+- 💼 LinkedIn: https://www.linkedin.com/in/augustogomessilva/
 
 Let's connect and create something awesome together!
