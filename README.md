@@ -4,11 +4,11 @@ I'm Pedro AGA Silva, a Mechanical Engineer with a passion for programming and de
 
 ## About Me
 
-- 🔧 Mechanical Engineer by profession, programmer by passion.
-- 🌱 Currently exploring the realms of software development and automation.
-- 💡 Interested in building tools and applications to streamline processes.
-- ⚙️ Proficient in Python, C++ and Assembly.
-- 🎓 Constantly learning and expanding my knowledge in the field of programming and IT.
+🔧 Mechanical Engineer by profession, programmer by passion.
+🌱 Currently exploring the realms of software development and automation.
+💡 Interested in building tools and applications to streamline processes.
+⚙️ Proficient in Python, C++ and Assembly.
+🎓 Constantly learning and expanding my knowledge in the field of programming and IT.
 
 ## Projects
 
@@ -30,6 +30,7 @@ Feel free to explore my repositories to see more of my work!
 If you'd like to get in touch with me or discuss potential collaboration opportunities, feel free to reach out:
 
 - 📧 Email: pedroagasilva@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/augustogomessilva/
+- 💼 LinkedIn: (https://www.linkedin.com/in/augustogomessilva/)
+- 🔗 Portfolio: Coming Soon
 
 Let's connect and create something awesome together!
