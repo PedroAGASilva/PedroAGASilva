@@ -34,6 +34,6 @@ If you'd like to get in touch with me or discuss potential collaboration opportu
 
 - 📧 Email: pedroagasilva@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/augustogomessilva/
-- 🔗 Portfolio: Coming Soon
+- 🔗 Portfolio: https://pedroagasilva.github.io/
 
 Let's connect and create something awesome together!
